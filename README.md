@@ -1,7 +1,9 @@
 # Yo!Admin
 Yo!Admin is an open-source penetration testings tool. 
-It automates the process of tracking down admin pages/panels from any websites.
-It is built on Python. It 
+It automates the process of tracking down admin pages/panels from any websites. 
+It is built on Python. This tool is only for educational purposes. 
+The developer will take no responsibilities for any illegal purposes.
+
 # Screenshot
 ![Image of yoadmin](https://github.com/judah852/hello-world/blob/master/ad.png)
 
