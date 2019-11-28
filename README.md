@@ -5,7 +5,7 @@ It is built on Python. This tool is only for educational purposes.
 The developer will take no responsibilities for any illegal purposes.
 
 # Screenshot
-![Image of yoadmin](https://github.com/judah852/hello-world/blob/master/ad.png)
+![Image of yoadmin](https://github.com/judah852/Yo-Admin/blob/master/ad.png)
 
 # Requirement
 In order to minimize the time to detect admin pages, it employs some Python3 libraries. Running Python 3 is essential for this tool. 
